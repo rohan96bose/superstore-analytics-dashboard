@@ -19,5 +19,4 @@ Features
 - Trend Analysis: Year-over-year and month-over-month comparisons
 
 ## 📊 Dashboard Preview
-![Dashboard Screenshot](docs\screenshots\dashboard_overview.png)
-
+![Dashboard Screenshot](docs/screenshots/dashboard_overview.png)
