@@ -18,3 +18,6 @@ Features
 - Geographical Analysis: Map view of regional sales performance
 - Trend Analysis: Year-over-year and month-over-month comparisons
 
+## 📊 Dashboard Preview
+![Dashboard Screenshot](docs\screenshots\dashboard_overview)
+
